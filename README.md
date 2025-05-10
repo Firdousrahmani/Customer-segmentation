@@ -1,2 +1,2 @@
 # Customer-segmentation
-Using Advance Analytics
+Using Advanced Analytics in SQL
